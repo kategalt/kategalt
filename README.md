@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kategalt
 - 👀 I’m interested in Python coding and Project management
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Telegram apps or any other Python SW
+- 💞️ I’m looking to collaborate on Telegram bots or other SW written on Python
 - 📫 How to reach me here or at telegram (same nickname)
 <!---
 kategalt/kategalt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
